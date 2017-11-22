@@ -1,0 +1,11 @@
+# basic options, i can say what ever here, it will be ignored
+title: New-Blog
+author: Perry
+email: apk29@hotmail.com
+description: A wonderful site
+twitter_username: jekyllrb
+github_username:  apk29
+
+# Build settings
+markdown: kramdown
+theme: minima
